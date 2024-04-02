@@ -1,18 +1,15 @@
 # Javascript Deep Dive Study
 
-<center>
-  <img src="https://image.yes24.com/goods/92742567/XL.jpg" width=300/>
+<div align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrOo8_gCfOdTf46a6vjO-s0xJqOERht_5Baed-FH7VuQ&s" width=300/>
+<br>
   <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=251552545" >모던 자바스크립트 DeepDive</a>
-</center>
+<br>
+<br>
+〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+</div>
 
 
-<br>
-<br>
-🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆
-<br>
-<br>
-<br>
-<br>
 <br>
  
 📙 1차 모임  
