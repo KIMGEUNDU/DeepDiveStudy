@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrOo8_gCfOdTf46a6vjO-s0xJqOERht_5Baed-FH7VuQ&s" width=300/>
 <br>
-  <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=251552545" >모던 자바스크립트 DeepDive</a>  
+  <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=251552545" >모던 자바스크립트 DeepDive</a>    
   🗓️ 기간 : 2023년 10월 13일 ~ 2024년 1월 8일
 <br>
 <br>
